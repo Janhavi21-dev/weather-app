@@ -15,7 +15,9 @@ A simple and responsive weather forecast web application built using **React.js*
 - OpenWeatherMap API
 - HTML5 & CSS3
 
+## 📸 Screenshot
 
+![Weather App Screenshot](Screenshot 2025-12-15 000947.png)
 
 
 ## ⚙️ Installation & Setup
